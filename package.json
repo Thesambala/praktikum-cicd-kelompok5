@@ -1,0 +1,12 @@
+{
+  "name": "praktikum-cicd",
+  "version": "1.0.0",
+  "description": "Praktikum CI/CD Node.js dengan GitHub Actions",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node app.test.js"
+  },
+  "author": "Kelompok 5",
+  "license": "ISC"
+}
